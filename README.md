@@ -57,4 +57,16 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
