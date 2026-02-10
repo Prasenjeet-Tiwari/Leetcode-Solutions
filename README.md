@@ -13,6 +13,7 @@ A compilation of the leetcode problems solved for refernce
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -100,4 +103,12 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
