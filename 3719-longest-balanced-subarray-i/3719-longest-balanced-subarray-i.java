@@ -3,14 +3,14 @@ class Solution {
 
         int ans=0;
         for(int i=0; i<nums.length; i++){
-            HashMap<Integer,Integer> hme=new HashMap<>();
-            HashMap<Integer,Integer> hmo=new HashMap<>();
+            HashSet<Integer> hme=new HashSet<>();
+            HashSet<Integer> hmo=new HashSet<>();
             for(int j=i; j<nums.length; j++){
                 int curr=nums[j];
                 if(curr%2==0){
-                    hme.put(curr,hme.getOrDefault(hme.get(nums[j]),0)+1);
+                    hme.add(nums[j]);
                 }else{
-                    hmo.put(curr,hmo.getOrDefault(hmo.get(nums[j]),0)+1);
+                    hmo.add(nums[j]);
                 }
 
                 if(hme.size()==hmo.size()){
