@@ -58,6 +58,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0401-binary-watch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
