@@ -99,6 +99,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0799-champagne-tower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 ## Stack
 |  |
 | ------- |
