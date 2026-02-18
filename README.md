@@ -123,4 +123,8 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0401-binary-watch) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
