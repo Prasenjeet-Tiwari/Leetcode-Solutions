@@ -59,6 +59,7 @@ A compilation of the leetcode problems solved for refernce
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
