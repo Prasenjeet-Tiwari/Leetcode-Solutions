@@ -13,6 +13,7 @@ A compilation of the leetcode problems solved for refernce
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -57,6 +58,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 ## Math
 |  |
 | ------- |
