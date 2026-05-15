@@ -85,16 +85,19 @@ A compilation of the leetcode problems solved for refernce
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
@@ -147,4 +150,8 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
