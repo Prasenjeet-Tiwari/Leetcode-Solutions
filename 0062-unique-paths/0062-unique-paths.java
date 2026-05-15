@@ -4,10 +4,10 @@ class Solution {
         int dp[][]=new int[m][n];
 
         for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                dp[i][0]=1;
-                dp[0][j]=1;
-            }
+                dp[i][0]=1;            
+        }
+        for(int i=0; i<n; i++){
+                dp[0][i]=1;            
         }
 
         for(int row=1; row<m; row++){
