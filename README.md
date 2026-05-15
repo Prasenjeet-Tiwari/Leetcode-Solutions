@@ -87,18 +87,21 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -118,6 +121,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0799-champagne-tower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 ## Stack
 |  |
