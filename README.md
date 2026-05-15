@@ -64,6 +64,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -128,6 +129,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0799-champagne-tower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0799-champagne-tower) |
@@ -167,4 +169,8 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0100-same-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
