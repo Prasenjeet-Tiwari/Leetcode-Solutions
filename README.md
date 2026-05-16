@@ -66,6 +66,7 @@ A compilation of the leetcode problems solved for refernce
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0066-plus-one) |
