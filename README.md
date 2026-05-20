@@ -95,6 +95,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Tree
 |  |
 | ------- |
