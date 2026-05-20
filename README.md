@@ -57,6 +57,7 @@ A compilation of the leetcode problems solved for refernce
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0696-count-binary-substrings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## String Matching
@@ -96,6 +97,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A compilation of the leetcode problems solved for refernce
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Segment Tree
