@@ -62,6 +62,7 @@ A compilation of the leetcode problems solved for refernce
 | [0696-count-binary-substrings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A compilation of the leetcode problems solved for refernce
 | [0234-palindrome-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Tree
 |  |
 | ------- |
