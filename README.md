@@ -99,6 +99,7 @@ A compilation of the leetcode problems solved for refernce
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -212,4 +213,5 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
