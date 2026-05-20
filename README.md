@@ -60,6 +60,7 @@ A compilation of the leetcode problems solved for refernce
 | [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## String Matching
 |  |
@@ -102,6 +103,7 @@ A compilation of the leetcode problems solved for refernce
 | [0203-remove-linked-list-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
