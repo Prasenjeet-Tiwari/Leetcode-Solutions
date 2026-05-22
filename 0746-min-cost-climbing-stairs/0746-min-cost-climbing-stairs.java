@@ -1,29 +1,21 @@
 class Solution {
-    public int tabulation(int cost[]){
-
-        int length=cost.length;
-
-        if(length==0) return 0;
-        if(length==1) return cost[0];
-        if(length==2) return Math.min(cost[0],cost[1]);
-
-        int dp[]=new int[length+1];// cause top i on elevel up with no cost
-
-        dp[0]=cost[0]; dp[1]=cost[1];
-
-        for(int i=2; i<length+1; i++){
-            int two=dp[i-2];
-            int one=dp[i-1];
-            if(i==length){
-                dp[i]= Math.min(one,two) + 0; // since ast level cost is 0, not in array
-            }else{
-                dp[i]= Math.min(one,two) + cost[i];
-            }
-            
-        }
-        return dp[length];
-    }
     public int minCostClimbingStairs(int[] cost) {
-        return tabulation(cost);
+        int n = cost.length;
+        
+        if (n == 1) return cost[0];
+        if (n == 2) return Math.min(cost[0], cost[1]);
+
+        // dp[i] = min cost to reach step i and step off it
+        int[] dp = new int[n];
+        dp[0] = cost[0];
+        dp[1] = cost[1];
+
+        for (int i = 2; i < n; i++) {
+            // Take min cost of previous two steps and add current step cost
+            dp[i] = cost[i] + Math.min(dp[i-1], dp[i-2]);
+        }
+
+        // Top floor can be reached from either of the last two steps
+        return Math.min(dp[n-1], dp[n-2]);
     }
 }
