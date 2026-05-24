@@ -9,6 +9,7 @@ A compilation of the leetcode problems solved for refernce
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -78,6 +79,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0162-find-peak-element) |
