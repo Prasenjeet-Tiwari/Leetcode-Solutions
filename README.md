@@ -86,6 +86,7 @@ A compilation of the leetcode problems solved for refernce
 | [0002-add-two-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
@@ -255,6 +256,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
