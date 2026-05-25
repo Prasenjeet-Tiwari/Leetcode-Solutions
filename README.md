@@ -24,6 +24,7 @@ A compilation of the leetcode problems solved for refernce
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -168,6 +169,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -222,6 +224,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Segment Tree
@@ -242,6 +245,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Breadth-First Search
 |  |
@@ -283,4 +287,8 @@ A compilation of the leetcode problems solved for refernce
 | [0070-climbing-stairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
