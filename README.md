@@ -27,6 +27,7 @@ A compilation of the leetcode problems solved for refernce
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -184,6 +185,7 @@ A compilation of the leetcode problems solved for refernce
 | [0148-sort-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
@@ -264,6 +266,7 @@ A compilation of the leetcode problems solved for refernce
 | [0088-merge-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Breadth-First Search
 |  |
@@ -309,4 +312,12 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
