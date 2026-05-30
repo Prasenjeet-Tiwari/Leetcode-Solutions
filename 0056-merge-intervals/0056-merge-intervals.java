@@ -1,40 +1,24 @@
-import java.util.Arrays;
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public int[][] merge(int[][] intervals) {
-        // Handle empty or single interval edge cases
-        if (intervals == null || intervals.length <= 1) {
-            return intervals;
-        }
-
-        // 1. Sort intervals by their start values
+        // Sort intervals based on start time
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        List<int[]> mergedList = new ArrayList<>();
-        
-        // Initialize our tracking interval with the first element
-        int[] currentInterval = intervals[0];
-        mergedList.add(currentInterval);
+        List<int[]> merged = new ArrayList<>();
+        int[] prev = intervals[0];
 
-        for (int[] nextInterval : intervals) {
-            int currentEnd = currentInterval[1];
-            int nextStart = nextInterval[0];
-            int nextEnd = nextInterval[1];
-
-            // 2. Check for overlapping intervals
-            if (nextStart <= currentEnd) {
-                // Merge intervals by updating the end of the tracking interval
-                currentInterval[1] = Math.max(currentEnd, nextEnd);
+        for (int i = 1; i < intervals.length; i++) {
+            // Overlap condition: current start <= previous end
+            if (intervals[i][0] <= prev[1]) {
+                // Merge intervals
+                prev[1] = Math.max(prev[1], intervals[i][1]);
             } else {
-                // 3. Move tracker to the non-overlapping interval and add it to the list
-                currentInterval = nextInterval;
-                mergedList.add(currentInterval);
+                // No overlap, add previous interval to result
+                merged.add(prev);
+                prev = intervals[i];
             }
         }
 
-        // 4. Convert the list back to a 2D primitive array
-        return mergedList.toArray(new int[mergedList.size()][]);
+        merged.add(prev); // Add the last interval
+        return merged.toArray(new int[merged.size()][]);
     }
 }
