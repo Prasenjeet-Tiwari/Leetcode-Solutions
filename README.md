@@ -34,6 +34,7 @@ A compilation of the leetcode problems solved for refernce
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0875-koko-eating-bananas](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -97,6 +98,7 @@ A compilation of the leetcode problems solved for refernce
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
