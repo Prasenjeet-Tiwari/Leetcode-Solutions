@@ -82,6 +82,7 @@ A compilation of the leetcode problems solved for refernce
 | [0148-sort-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -119,6 +120,7 @@ A compilation of the leetcode problems solved for refernce
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -263,6 +265,7 @@ A compilation of the leetcode problems solved for refernce
 | [0141-linked-list-cycle](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
