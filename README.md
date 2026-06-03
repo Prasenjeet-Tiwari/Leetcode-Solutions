@@ -66,6 +66,7 @@ A compilation of the leetcode problems solved for refernce
 | [0058-length-of-last-word](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0696-count-binary-substrings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
@@ -266,6 +267,7 @@ A compilation of the leetcode problems solved for refernce
 | [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
