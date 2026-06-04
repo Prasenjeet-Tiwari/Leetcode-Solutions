@@ -1,25 +1,18 @@
 class Solution {
 
-    int greedy(int prices[]){
+    public int maxProfit(int[] arr) {
 
-        int n=prices.length;
-        int amount=0;
-        int currPrice=prices[0];
+        int max=0;
+        int low=arr[0];
 
-        for(int i=0; i<n; i++){
-            int side_profit=0;
-            if(prices[i]<currPrice){
-                currPrice=prices[i];
+        for(int x: arr){
+            if(x>low){
+                max+=x-low;
+                low=x;
+            }else{
+                low=x;
             }
-            if(prices[i]-currPrice>0){
-                side_profit= prices[i]- currPrice;
-                currPrice=prices[i];    //imp now this becomes new start
-            }
-            amount+=side_profit;
         }
-        return amount;
-    }
-    public int maxProfit(int[] prices) {
-        return greedy(prices);
+        return max;
     }
 }
