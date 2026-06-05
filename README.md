@@ -71,6 +71,7 @@ A compilation of the leetcode problems solved for refernce
 | [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0696-count-binary-substrings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A compilation of the leetcode problems solved for refernce
 | [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Segment Tree
