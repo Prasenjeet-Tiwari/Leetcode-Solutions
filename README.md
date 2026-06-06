@@ -47,6 +47,7 @@ A compilation of the leetcode problems solved for refernce
 | [1539-kth-missing-positive-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -59,6 +60,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2574-left-and-right-sum-differences](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## String
