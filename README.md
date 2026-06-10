@@ -12,6 +12,7 @@ A compilation of the leetcode problems solved for refernce
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -70,6 +71,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -282,6 +284,7 @@ A compilation of the leetcode problems solved for refernce
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -311,6 +314,7 @@ A compilation of the leetcode problems solved for refernce
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0148-sort-list) |
