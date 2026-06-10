@@ -74,6 +74,7 @@ A compilation of the leetcode problems solved for refernce
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -288,6 +289,7 @@ A compilation of the leetcode problems solved for refernce
 | [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -315,6 +317,7 @@ A compilation of the leetcode problems solved for refernce
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
