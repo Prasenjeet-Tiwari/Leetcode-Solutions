@@ -77,6 +77,7 @@ A compilation of the leetcode problems solved for refernce
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -295,6 +296,7 @@ A compilation of the leetcode problems solved for refernce
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -392,4 +394,12 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
