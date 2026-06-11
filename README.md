@@ -143,6 +143,7 @@ A compilation of the leetcode problems solved for refernce
 | [1922-count-good-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
@@ -195,6 +196,7 @@ A compilation of the leetcode problems solved for refernce
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A compilation of the leetcode problems solved for refernce
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
