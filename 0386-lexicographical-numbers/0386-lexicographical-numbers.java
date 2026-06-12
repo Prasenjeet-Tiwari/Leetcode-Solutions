@@ -1,18 +1,29 @@
 class Solution {
-    static public List<Integer> lexicalOrder(int n) {
+
+    public List<Integer> lexicalOrder(int n) {
+
         List<Integer> ans = new ArrayList<>();
-        for (int i = 1; i < 10; i++) 
-            solve(i, n, ans);
+
+        for(int i = 1; i <= 9; i++) {
+            dfs(i, n, ans);
+        }
+
         return ans;
     }
 
-    static void solve(int prod, int n, List<Integer> ans) {
-        if (prod > n) return;
-        ans.add(prod);
-        for (int j = 0; j < 10; j++) {
-            int next = prod * 10 + j;
+    private void dfs(int curr, int n, List<Integer> ans) {
+
+        if(curr > n) return;
+
+        ans.add(curr);
+
+        for(int digit = 0; digit <= 9; digit++) {
+
+            int next = curr * 10 + digit;
+
             if(next > n) return;
-            solve(next, n, ans);
+
+            dfs(next, n, ans);
         }
     }
 }
