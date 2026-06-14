@@ -118,6 +118,7 @@ A compilation of the leetcode problems solved for refernce
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A compilation of the leetcode problems solved for refernce
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
@@ -306,6 +308,7 @@ A compilation of the leetcode problems solved for refernce
 | [0085-maximal-rectangle](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
