@@ -57,6 +57,7 @@ A compilation of the leetcode problems solved for refernce
 | [1539-kth-missing-positive-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -187,6 +188,7 @@ A compilation of the leetcode problems solved for refernce
 | [0043-multiply-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1929-concatenation-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
