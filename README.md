@@ -43,6 +43,7 @@ A compilation of the leetcode problems solved for refernce
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
@@ -181,6 +182,7 @@ A compilation of the leetcode problems solved for refernce
 | [0190-reverse-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -349,6 +351,7 @@ A compilation of the leetcode problems solved for refernce
 | [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -382,6 +385,7 @@ A compilation of the leetcode problems solved for refernce
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
