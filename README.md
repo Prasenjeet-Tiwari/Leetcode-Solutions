@@ -56,6 +56,7 @@ A compilation of the leetcode problems solved for refernce
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -150,6 +151,7 @@ A compilation of the leetcode problems solved for refernce
 | [0875-koko-eating-bananas](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -428,6 +430,7 @@ A compilation of the leetcode problems solved for refernce
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
