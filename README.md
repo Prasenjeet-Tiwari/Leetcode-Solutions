@@ -69,6 +69,7 @@ A compilation of the leetcode problems solved for refernce
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -210,6 +211,7 @@ A compilation of the leetcode problems solved for refernce
 | [1441-build-an-array-with-stack-operations](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Linked List
@@ -522,4 +524,5 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
