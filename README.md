@@ -345,6 +345,7 @@ A compilation of the leetcode problems solved for refernce
 | [0084-largest-rectangle-in-histogram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -498,6 +499,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Trie
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A compilation of the leetcode problems solved for refernce
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
