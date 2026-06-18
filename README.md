@@ -198,6 +198,7 @@ A compilation of the leetcode problems solved for refernce
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -295,6 +296,7 @@ A compilation of the leetcode problems solved for refernce
 | [0148-sort-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
