@@ -29,6 +29,7 @@ A compilation of the leetcode problems solved for refernce
 | [0120-triangle](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -198,6 +199,7 @@ A compilation of the leetcode problems solved for refernce
 | [0029-divide-two-integers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0342-power-of-four) |
