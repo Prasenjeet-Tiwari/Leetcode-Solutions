@@ -179,6 +179,7 @@ A compilation of the leetcode problems solved for refernce
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -199,6 +200,7 @@ A compilation of the leetcode problems solved for refernce
 | [0078-subsets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -463,6 +465,7 @@ A compilation of the leetcode problems solved for refernce
 | [0203-remove-linked-list-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
