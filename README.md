@@ -186,6 +186,7 @@ A compilation of the leetcode problems solved for refernce
 | [0507-perfect-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [1006-clumsy-factorial](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -218,6 +219,7 @@ A compilation of the leetcode problems solved for refernce
 | [0043-multiply-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1006-clumsy-factorial](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -360,6 +362,7 @@ A compilation of the leetcode problems solved for refernce
 | [0234-palindrome-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [1006-clumsy-factorial](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
