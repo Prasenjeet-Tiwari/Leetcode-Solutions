@@ -37,6 +37,7 @@ A compilation of the leetcode problems solved for refernce
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -180,6 +181,7 @@ A compilation of the leetcode problems solved for refernce
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -503,6 +505,7 @@ A compilation of the leetcode problems solved for refernce
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
@@ -539,4 +542,8 @@ A compilation of the leetcode problems solved for refernce
 | [0232-implement-queue-using-stacks](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
