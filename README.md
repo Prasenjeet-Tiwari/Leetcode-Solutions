@@ -181,6 +181,7 @@ A compilation of the leetcode problems solved for refernce
 | [0189-rotate-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
