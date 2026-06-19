@@ -69,6 +69,7 @@ A compilation of the leetcode problems solved for refernce
 | [1539-kth-missing-positive-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1732-find-the-highest-altitude](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -95,6 +96,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
