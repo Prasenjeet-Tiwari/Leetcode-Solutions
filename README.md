@@ -6,6 +6,7 @@ A compilation of the leetcode problems solved for refernce
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -384,6 +385,7 @@ A compilation of the leetcode problems solved for refernce
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
