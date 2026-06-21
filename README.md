@@ -39,6 +39,7 @@ A compilation of the leetcode problems solved for refernce
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -279,6 +280,7 @@ A compilation of the leetcode problems solved for refernce
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -459,6 +461,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0100-same-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -474,6 +477,7 @@ A compilation of the leetcode problems solved for refernce
 | [0064-minimum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -550,6 +554,7 @@ A compilation of the leetcode problems solved for refernce
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
