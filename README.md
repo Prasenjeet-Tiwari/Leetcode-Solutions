@@ -63,6 +63,7 @@ A compilation of the leetcode problems solved for refernce
 | [0994-rotting-oranges](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -292,6 +293,7 @@ A compilation of the leetcode problems solved for refernce
 | [0543-diameter-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -476,6 +478,7 @@ A compilation of the leetcode problems solved for refernce
 | [0547-number-of-provinces](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Combinatorics
@@ -496,6 +499,7 @@ A compilation of the leetcode problems solved for refernce
 | [0733-flood-fill](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -573,6 +577,7 @@ A compilation of the leetcode problems solved for refernce
 | [0130-surrounded-regions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
