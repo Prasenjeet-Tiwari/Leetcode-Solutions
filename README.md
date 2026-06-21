@@ -586,6 +586,7 @@ A compilation of the leetcode problems solved for refernce
 | [0207-course-schedule](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1791-find-center-of-star-graph](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
 |  |
