@@ -1,20 +1,20 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int openNeeded = 0;
-        int closeNeeded = 0;
+        int open= 0;
+        int close= 0;
         
         for (char c : s.toCharArray()) {
             if (c == '(') {
-                openNeeded++;
+                open++;
             } else {
-                if (openNeeded > 0) {
-                    openNeeded--; // Matched a pair
+                if (open> 0) {
+                    open--; // Matched a pair
                 } else {
-                    closeNeeded++; // Unmatched ')'
+                    close++; // Unmatched ')'
                 }
             }
         }
         
-        return openNeeded + closeNeeded;
+        return open+ close;
     }
 }
