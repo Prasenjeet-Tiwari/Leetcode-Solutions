@@ -53,6 +53,7 @@ A compilation of the leetcode problems solved for refernce
 | [0485-max-consecutive-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -374,6 +375,7 @@ A compilation of the leetcode problems solved for refernce
 | [0198-house-robber](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -491,6 +493,7 @@ A compilation of the leetcode problems solved for refernce
 | [0207-course-schedule](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -514,6 +517,7 @@ A compilation of the leetcode problems solved for refernce
 | [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
