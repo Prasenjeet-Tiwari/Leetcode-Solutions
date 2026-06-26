@@ -97,6 +97,7 @@ A compilation of the leetcode problems solved for refernce
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3895-count-digit-appearances](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Sliding Window
@@ -115,6 +116,7 @@ A compilation of the leetcode problems solved for refernce
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A compilation of the leetcode problems solved for refernce
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -453,12 +456,14 @@ A compilation of the leetcode problems solved for refernce
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -549,6 +554,7 @@ A compilation of the leetcode problems solved for refernce
 | [0023-merge-k-sorted-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Memoization
 |  |
 | ------- |
