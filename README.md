@@ -7,6 +7,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -145,6 +146,7 @@ A compilation of the leetcode problems solved for refernce
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0027-remove-element) |
@@ -479,6 +481,7 @@ A compilation of the leetcode problems solved for refernce
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0056-merge-intervals) |
