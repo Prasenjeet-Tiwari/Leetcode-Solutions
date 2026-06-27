@@ -49,6 +49,7 @@ A compilation of the leetcode problems solved for refernce
 | [0219-contains-duplicate-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -348,6 +349,7 @@ A compilation of the leetcode problems solved for refernce
 | [0190-reverse-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -449,6 +451,7 @@ A compilation of the leetcode problems solved for refernce
 | [0217-contains-duplicate](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -500,6 +503,7 @@ A compilation of the leetcode problems solved for refernce
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -583,6 +587,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
@@ -590,12 +595,14 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Enumeration
 |  |
@@ -661,4 +668,8 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0207-course-schedule](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
