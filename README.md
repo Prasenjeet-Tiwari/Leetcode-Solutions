@@ -18,6 +18,7 @@ A compilation of the leetcode problems solved for refernce
 | [0047-permutations-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -252,6 +253,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1006-clumsy-factorial](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
@@ -548,6 +550,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
