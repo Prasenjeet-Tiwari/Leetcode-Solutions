@@ -64,6 +64,7 @@ A compilation of the leetcode problems solved for refernce
 | [0542-01-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
