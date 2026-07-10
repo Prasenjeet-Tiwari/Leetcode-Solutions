@@ -51,6 +51,7 @@ A compilation of the leetcode problems solved for refernce
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -196,6 +197,7 @@ A compilation of the leetcode problems solved for refernce
 | [0035-search-insert-position](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -408,6 +410,7 @@ A compilation of the leetcode problems solved for refernce
 | [0139-word-break](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
