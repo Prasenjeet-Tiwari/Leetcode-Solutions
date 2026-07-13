@@ -643,6 +643,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
