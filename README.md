@@ -145,6 +145,7 @@ A compilation of the leetcode problems solved for refernce
 | [0049-group-anagrams](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -414,6 +415,7 @@ A compilation of the leetcode problems solved for refernce
 | [0063-unique-paths-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
