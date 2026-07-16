@@ -140,6 +140,7 @@ A compilation of the leetcode problems solved for refernce
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -408,6 +409,7 @@ A compilation of the leetcode problems solved for refernce
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -517,6 +519,7 @@ A compilation of the leetcode problems solved for refernce
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0401-binary-watch) |
