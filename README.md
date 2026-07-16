@@ -115,6 +115,7 @@ A compilation of the leetcode problems solved for refernce
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Sliding Window
 |  |
@@ -187,6 +188,7 @@ A compilation of the leetcode problems solved for refernce
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A compilation of the leetcode problems solved for refernce
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
@@ -277,6 +280,7 @@ A compilation of the leetcode problems solved for refernce
 | [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -542,6 +546,7 @@ A compilation of the leetcode problems solved for refernce
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -703,6 +708,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
 |  |
 | ------- |
