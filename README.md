@@ -100,6 +100,7 @@ A compilation of the leetcode problems solved for refernce
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2140-solving-questions-with-brainpower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
@@ -247,6 +248,7 @@ A compilation of the leetcode problems solved for refernce
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -725,6 +727,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
 |  |
