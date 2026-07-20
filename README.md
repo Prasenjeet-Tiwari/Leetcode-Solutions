@@ -83,6 +83,7 @@ A compilation of the leetcode problems solved for refernce
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
+| [1260-shift-2d-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -294,6 +295,7 @@ A compilation of the leetcode problems solved for refernce
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1006-clumsy-factorial](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
+| [1260-shift-2d-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -625,6 +627,7 @@ A compilation of the leetcode problems solved for refernce
 | [0994-rotting-oranges](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
+| [1260-shift-2d-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
