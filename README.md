@@ -289,6 +289,7 @@ A compilation of the leetcode problems solved for refernce
 | [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
@@ -420,6 +421,7 @@ A compilation of the leetcode problems solved for refernce
 | [1833-maximum-ice-cream-bars](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search Tree
 |  |
@@ -461,6 +463,7 @@ A compilation of the leetcode problems solved for refernce
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2140-solving-questions-with-brainpower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
