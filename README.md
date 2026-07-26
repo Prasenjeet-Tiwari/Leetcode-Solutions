@@ -177,6 +177,7 @@ A compilation of the leetcode problems solved for refernce
 | [1189-maximum-number-of-balloons](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -425,6 +426,7 @@ A compilation of the leetcode problems solved for refernce
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search Tree
 |  |
@@ -539,6 +541,7 @@ A compilation of the leetcode problems solved for refernce
 | [2965-find-missing-and-repeated-values](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -592,6 +595,7 @@ A compilation of the leetcode problems solved for refernce
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -679,6 +683,7 @@ A compilation of the leetcode problems solved for refernce
 | [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1819-number-of-different-subsequences-gcds) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
