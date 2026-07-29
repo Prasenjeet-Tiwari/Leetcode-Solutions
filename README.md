@@ -92,6 +92,7 @@ A compilation of the leetcode problems solved for refernce
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -134,6 +135,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Prefix Sum
@@ -708,6 +710,7 @@ A compilation of the leetcode problems solved for refernce
 | [0743-network-delay-time](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -781,6 +784,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
@@ -805,4 +809,12 @@ A compilation of the leetcode problems solved for refernce
 | [0743-network-delay-time](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
