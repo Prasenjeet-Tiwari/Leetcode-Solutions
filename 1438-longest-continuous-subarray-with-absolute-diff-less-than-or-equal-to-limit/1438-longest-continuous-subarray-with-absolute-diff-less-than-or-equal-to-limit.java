@@ -3,6 +3,7 @@ class Solution {
 
         int i = 0;
         int j;
+        int max=0;
 
         TreeMap<Integer, Integer> m = new TreeMap<>();
 
@@ -16,7 +17,8 @@ class Solution {
                     m.remove(A[i]);
                 i++;
             }
+            max=Math.max(max,j-i+1);
         }
-        return j - i;
+        return max;
     }
 }
