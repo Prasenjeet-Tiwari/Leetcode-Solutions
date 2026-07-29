@@ -88,6 +88,7 @@ A compilation of the leetcode problems solved for refernce
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1306-jump-game-iii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -379,6 +380,7 @@ A compilation of the leetcode problems solved for refernce
 | [0785-is-graph-bipartite](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -629,6 +631,7 @@ A compilation of the leetcode problems solved for refernce
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
