@@ -13,7 +13,7 @@ class Solution {
             }
 
             hm.add(c);
-            count = hm.size();
+            count = i-j+1;
             max = Math.max(max, count);
         }
 
