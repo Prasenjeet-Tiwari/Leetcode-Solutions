@@ -283,6 +283,7 @@ A compilation of the leetcode problems solved for refernce
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
