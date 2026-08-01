@@ -77,6 +77,7 @@ A compilation of the leetcode problems solved for refernce
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0815-bus-routes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -563,6 +564,7 @@ A compilation of the leetcode problems solved for refernce
 | [0496-next-greater-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0815-bus-routes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0997-find-the-town-judge](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -650,6 +652,7 @@ A compilation of the leetcode problems solved for refernce
 | [0743-network-delay-time](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0815-bus-routes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
