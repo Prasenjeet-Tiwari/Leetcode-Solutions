@@ -68,6 +68,7 @@ A compilation of the leetcode problems solved for refernce
 | [0485-max-consecutive-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0542-01-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -148,6 +149,7 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -240,6 +242,7 @@ A compilation of the leetcode problems solved for refernce
 | [0300-longest-increasing-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0528-random-pick-with-weight](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -273,6 +276,7 @@ A compilation of the leetcode problems solved for refernce
 | [0507-perfect-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1006-clumsy-factorial](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -837,4 +841,8 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
