@@ -1,21 +1,35 @@
+import java.util.Arrays;
+
 class Solution {
     public int lengthOfLIS(int[] nums) {
+        int n = nums.length;
+        if (n == 0) return 0;
+
+        // 1. Sort and remove duplicates to ensure strictly increasing subsequence
+        int[] sorted = Arrays.copyOf(nums, n);
+        Arrays.sort(sorted);
         
-        int n=nums.length;
+        int uniqueCount = 0;
+        for (int i = 0; i < n; i++) {
+            if (i == 0 || sorted[i] != sorted[i - 1]) {
+                sorted[uniqueCount++] = sorted[i];
+            }
+        }
 
-        int dp[]= new int[n];
-        Arrays.fill(dp,1);
+        // 2. Run LCS between original array and unique sorted array
+        int[][] dp = new int[n + 1][uniqueCount + 1];
 
-        int max=1;
-
-        for(int i=0; i<n; i++){
-            for(int j=0; j<i; j++){
-                if(nums[j]<nums[i]){
-                    dp[i]=Math.max(dp[j]+1, dp[i]);
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= uniqueCount; j++) {
+                if (nums[i - 1] == sorted[j - 1]) {
+                    // Match found: increment subsequence length
+                    dp[i][j] = dp[i - 1][j - 1] + 1; 
+                } else {
+                    // No match: take maximum from top or left
+                    dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
                 }
             }
-            max=Math.max(dp[i],max);
         }
-        return max;
+        return dp[n][uniqueCount];
     }
 }
