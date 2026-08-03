@@ -858,4 +858,8 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
