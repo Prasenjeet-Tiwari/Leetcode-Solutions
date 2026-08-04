@@ -120,6 +120,7 @@ A compilation of the leetcode problems solved for refernce
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1995-count-special-quadruplets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2140-solving-questions-with-brainpower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -579,6 +580,7 @@ A compilation of the leetcode problems solved for refernce
 | [1189-maximum-number-of-balloons](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1995-count-special-quadruplets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1995-count-special-quadruplets) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -639,6 +641,7 @@ A compilation of the leetcode problems solved for refernce
 | [1833-maximum-ice-cream-bars](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -752,6 +755,7 @@ A compilation of the leetcode problems solved for refernce
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Quickselect
 |  |
