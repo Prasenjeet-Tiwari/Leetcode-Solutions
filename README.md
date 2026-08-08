@@ -411,6 +411,7 @@ A compilation of the leetcode problems solved for refernce
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -679,6 +680,7 @@ A compilation of the leetcode problems solved for refernce
 | [1971-find-if-path-exists-in-graph](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Combinatorics
 |  |
 | ------- |
@@ -829,6 +831,7 @@ A compilation of the leetcode problems solved for refernce
 | [1971-find-if-path-exists-in-graph](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Queue
 |  |
