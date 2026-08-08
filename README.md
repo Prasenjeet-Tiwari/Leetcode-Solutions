@@ -201,6 +201,7 @@ A compilation of the leetcode problems solved for refernce
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -233,6 +234,7 @@ A compilation of the leetcode problems solved for refernce
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
@@ -465,6 +467,7 @@ A compilation of the leetcode problems solved for refernce
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Binary Search Tree
@@ -517,6 +520,7 @@ A compilation of the leetcode problems solved for refernce
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2140-solving-questions-with-brainpower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
