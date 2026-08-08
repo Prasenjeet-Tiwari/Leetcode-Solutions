@@ -70,6 +70,7 @@ A compilation of the leetcode problems solved for refernce
 | [0463-island-perimeter](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
@@ -506,6 +507,7 @@ A compilation of the leetcode problems solved for refernce
 | [0300-longest-increasing-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0542-01-matrix) |
@@ -617,6 +619,7 @@ A compilation of the leetcode problems solved for refernce
 | [0047-permutations-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
 ## Database
 |  |
@@ -899,8 +902,10 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
