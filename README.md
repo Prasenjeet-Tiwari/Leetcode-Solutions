@@ -94,6 +94,7 @@ A compilation of the leetcode problems solved for refernce
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -517,6 +518,7 @@ A compilation of the leetcode problems solved for refernce
 | [0799-champagne-tower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -903,9 +905,11 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
