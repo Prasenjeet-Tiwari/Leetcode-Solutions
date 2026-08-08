@@ -60,6 +60,7 @@ A compilation of the leetcode problems solved for refernce
 | [0274-h-index](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -506,6 +507,7 @@ A compilation of the leetcode problems solved for refernce
 | [0198-house-robber](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -674,6 +676,7 @@ A compilation of the leetcode problems solved for refernce
 | [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
@@ -903,6 +906,7 @@ A compilation of the leetcode problems solved for refernce
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -912,4 +916,8 @@ A compilation of the leetcode problems solved for refernce
 | [0416-partition-equal-subset-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
