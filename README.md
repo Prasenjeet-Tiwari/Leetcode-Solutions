@@ -152,6 +152,7 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -191,6 +192,7 @@ A compilation of the leetcode problems solved for refernce
 | [0242-valid-anagram](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -447,6 +449,7 @@ A compilation of the leetcode problems solved for refernce
 | [0191-number-of-1-bits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -585,6 +588,7 @@ A compilation of the leetcode problems solved for refernce
 | [0347-top-k-frequent-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
