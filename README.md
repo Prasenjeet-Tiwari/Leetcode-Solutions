@@ -379,6 +379,7 @@ A compilation of the leetcode problems solved for refernce
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -398,6 +399,7 @@ A compilation of the leetcode problems solved for refernce
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
@@ -428,6 +430,7 @@ A compilation of the leetcode problems solved for refernce
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -486,6 +489,7 @@ A compilation of the leetcode problems solved for refernce
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
