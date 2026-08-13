@@ -386,6 +386,7 @@ A compilation of the leetcode problems solved for refernce
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -401,6 +402,7 @@ A compilation of the leetcode problems solved for refernce
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -433,6 +435,7 @@ A compilation of the leetcode problems solved for refernce
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -683,6 +686,7 @@ A compilation of the leetcode problems solved for refernce
 | [0100-same-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0207-course-schedule) |
