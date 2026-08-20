@@ -136,6 +136,7 @@ A compilation of the leetcode problems solved for refernce
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -348,6 +349,7 @@ A compilation of the leetcode problems solved for refernce
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
