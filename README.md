@@ -151,6 +151,7 @@ A compilation of the leetcode problems solved for refernce
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Sliding Window
 |  |
@@ -324,6 +325,7 @@ A compilation of the leetcode problems solved for refernce
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
