@@ -125,6 +125,7 @@ A compilation of the leetcode problems solved for refernce
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1995-count-special-quadruplets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2140-solving-questions-with-brainpower](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
@@ -503,6 +504,7 @@ A compilation of the leetcode problems solved for refernce
 | [1382-balance-a-binary-search-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
