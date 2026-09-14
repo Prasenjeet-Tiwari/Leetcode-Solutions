@@ -309,6 +309,7 @@ A compilation of the leetcode problems solved for refernce
 | [0523-continuous-subarray-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1006-clumsy-factorial](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -983,4 +984,8 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
