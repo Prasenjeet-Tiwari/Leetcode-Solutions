@@ -319,6 +319,7 @@ A compilation of the leetcode problems solved for refernce
 | [1137-n-th-tribonacci-number](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1922-count-good-numbers](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -995,4 +996,5 @@ A compilation of the leetcode problems solved for refernce
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
