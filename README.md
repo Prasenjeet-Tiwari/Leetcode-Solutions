@@ -204,6 +204,7 @@ A compilation of the leetcode problems solved for refernce
 | [0067-add-binary](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -623,6 +624,7 @@ A compilation of the leetcode problems solved for refernce
 | [0073-set-matrix-zeroes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -736,6 +738,7 @@ A compilation of the leetcode problems solved for refernce
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0207-course-schedule) |
@@ -1006,4 +1009,8 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
