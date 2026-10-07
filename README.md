@@ -1022,5 +1022,6 @@ A compilation of the leetcode problems solved for refernce
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
