@@ -135,6 +135,7 @@ A compilation of the leetcode problems solved for refernce
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2258-escape-the-spreading-fire](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2574-left-and-right-sum-differences](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -866,6 +867,7 @@ A compilation of the leetcode problems solved for refernce
 | [0204-count-primes](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [1995-count-special-quadruplets](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/1995-count-special-quadruplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
