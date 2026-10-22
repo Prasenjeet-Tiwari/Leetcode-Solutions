@@ -164,6 +164,7 @@ A compilation of the leetcode problems solved for refernce
 | [3895-count-digit-appearances](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sliding Window
 |  |
 | ------- |
