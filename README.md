@@ -154,6 +154,7 @@ A compilation of the leetcode problems solved for refernce
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -348,6 +349,7 @@ A compilation of the leetcode problems solved for refernce
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prasenjeet-Tiwari/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
